@@ -1,0 +1,15 @@
+#group,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+#datatype,string,string,string,string,string,double,dateTime:RFC3339
+#default,_result,,,,,,
+,result,nodes,_field,_tag,_measurement,_value,_time
+,,node1,temperature,tempAvg,tempAvg,0,2022-12-12T13:40:50Z
+,,node1,humidity,humAvg,humAvg,0,2022-12-12T13:40:50Z
+,,node1,solarradiation,solRad,solRad,0,2022-12-12T13:40:50Z
+,,node1,uv,uvHigh,uvHigh,0,2022-12-12T13:40:50Z
+,,node1,winddirection,winddirAvg,winddirAvg,0,2022-12-12T13:40:50Z
+,,node1,dewpoint,dwpt,dwpt,0,2022-12-12T13:40:50Z
+,,node1,windspeed,windspeedAvg,windspeedAvg,0,2022-12-12T13:40:50Z
+,,node1,windgust,windgustAvg,windgustAvg,0,2022-12-12T13:40:50Z
+,,node1,pressureMax,prsrMax,prsrMax,1006.77,2022-12-12T13:40:50Z
+,,node1,precipitationRate,precipRate,precipRate,0.0,2022-12-12T13:40:50Z
+,,node1,precipitationTotal,precipTot,precipTot,0.0,2022-12-12T13:40:50Z

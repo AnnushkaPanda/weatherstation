@@ -1,0 +1,5 @@
+https://api.weather.com/v2/pws/dailysummary/7day?stationId=IBUDAP126&format=json&units=m&apiKey=6ec49650c67e479e849650c67ed79e18
+
+https://api.weather.com/v2/pws/observations/hourly/7day?stationId=IBUDAP126&format=json&units=m&apiKey=6ec49650c67e479e849650c67ed79e18
+
+https://api.weather.com/v2/pws/observations/current?stationId=IBUDAP126&format=json&units=m&apiKey=6ec49650c67e479e849650c67ed79e18
